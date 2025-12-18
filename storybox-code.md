@@ -10,3 +10,8 @@ cd /home/admin/story_box
 nano /home/admin/story_box/storybox.py
 ```
 Paste the complete code from [storybox.py](storybox.py).
+
+Save and make executable:
+```bash
+chmod +x /home/admin/story_box/storybox.py
+```
