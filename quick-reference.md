@@ -37,3 +37,47 @@
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+```
+Hardware Assembly:
+□ Audio bonnet stacked on Pi GPIO
+□ Extra-tall stacking header installed
+□ LCD wired (4 wires: VCC, GND, SDA, SCL)
+□ All 5 buttons wired correctly
+□ Play button LED wired
+□ Speakers connected to bonnet terminals
+□ All connections secure
+□ Button panel mounted safely
+
+Software Configuration:
+□ /boot/config.txt configured
+□ All packages installed
+□ Sound effects created
+□ Main script installed
+□ Script is executable
+□ Systemd service created
+□ Service enabled and running
+
+Testing:
+□ LCD displays correctly
+□ Audio plays through speakers
+□ All buttons respond
+□ LED lights during playback
+□ Story selection works
+□ Auto-play works
+□ Shutdown works
+□ State saving works
+
+USB Content:
+□ Drive formatted FAT32
+□ Folders properly named
+□ Audio files in folders
+□ Files numbered correctly
+□ USB auto-mounts
+
+Ready to Use:
+□ Enclosure complete (if applicable)
+□ All wiring tucked away
+□ No sharp edges exposed
+□ Child-safe construction
+□ Parent instructions provided
+```
